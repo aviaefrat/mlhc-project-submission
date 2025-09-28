@@ -1,0 +1,8 @@
+itemid,measurement name,feature name,min,max
+184,Eye Opening,GCSEye,1,4
+198,GCS Total,GCSTotal,3,15
+454,Motor Response,GCSMotor,1,6
+723,Verbal Response,GCSVerbal,1,5
+220739,GCS - Eye Opening,GCSEye,1,4
+223900,GCS - Verbal Response,GCSVerbal,1,5
+223901,GCS - Motor Response,GCSMotor,1,6

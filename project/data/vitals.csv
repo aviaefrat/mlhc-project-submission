@@ -1,0 +1,44 @@
+itemid,measurement name,feature name,min,max,units
+211, Heart Rate,HeartRate,10,300,BPM
+220045, Heart Rate,HeartRate,10,300,BPM
+51, Arterial BP [Systolic],SysBP,20,250,mmHg
+442, Manual BP [Systolic],SysBP,20,250,mmHg
+455, NBP [Systolic],SysBP,20,250,mmHg
+6701, Arterial BP #2 [Systolic],SysBP,20,250,mmHg
+220179, Non Invasive Blood Pressure systolic,SysBP,20,250,mmHg
+220050, Arterial Blood Pressure systolic,SysBP,20,250,mmHg
+8368, Arterial BP [Diastolic],DiasBP,20,240,mmHg
+8440, Manual BP [Diastolic],DiasBP,20,240,mmHg
+8441, NBP [Diastolic],DiasBP,20,240,mmHg
+8555, Arterial BP #2 [Diastolic],DiasBP,20,240,mmHg
+220180, Non Invasive Blood Pressure diastolic,DiasBP,20,240,mmHg
+220051, Arterial Blood Pressure diastolic,DiasBP,20,240,mmHg
+456, NBP Mean,MeanBP,20,245,mmHg
+52, Arterial BP Mean,MeanBP,20,245,mmHg
+6702, Arterial BP Mean #2,MeanBP,20,245,mmHg
+443, Manual BP Mean(calc),MeanBP,20,245,mmHg
+220052, Arterial Blood Pressure mean,MeanBP,20,245,mmHg
+220181, Non Invasive Blood Pressure mean,MeanBP,20,245,mmHg
+225312, ART BP mean,MeanBP,20,245,mmHg
+618, Respiratory Rate,RespRate,5,100,BPM
+615, Resp Rate (Total),RespRate,5,100,BPM
+220210, Respiratory Rate,RespRate,5,100,BPM
+224690, Respiratory Rate (Total),RespRate,5,100,BPM
+646, SPO2,SpO2,5,100,%
+220277, peripheral,SpO2,5,100,%
+807, Fingerstick Glucose,Glucose,15,2000,mg/dL
+811, Glucose (70-105),Glucose,15,2000,mg/dL
+1529, Glucose,Glucose,15,2000,mg/dL
+3745, BloodGlucose,Glucose,15,2000,mg/dL
+3744, Blood Glucose,Glucose,15,2000,mg/dL
+225664, Glucose finger stick,Glucose,15,2000,mg/dL
+220621, Glucose (serum),Glucose,15,2000,mg/dL
+226537, Glucose (whole blood),Glucose,15,2000,mg/dL
+223762, Temperature Celsius,TempC,20,45,C
+676, Temperature C,TempC,20,45,C
+223761, Temperature Fahrenheit,TempF,68,113,F
+678, TEMPERATURE,TempF,68,113,F
+762,Admit Wt,Weight,25,250,kg
+763,Daily Weight,Weight,25,250,kg
+224639,Daily Weight,Weight,25,250,kg
+226512,Admission Weight (Kg),Weight,25,250,kg
